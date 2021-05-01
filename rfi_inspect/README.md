@@ -7,4 +7,5 @@
 * [rfi_inspect_2459317.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459317.ipynb)
 * [rfi_inspect_2459319.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459319.ipynb)
 * [rfi_inspect_2459320.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459320.ipynb)
+* [rfi_inspect_2459333.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459333.ipynb)
 * [rfi_inspect_2459334.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459334.ipynb)
