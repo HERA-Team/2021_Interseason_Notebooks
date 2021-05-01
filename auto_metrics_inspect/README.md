@@ -10,4 +10,5 @@
 * [auto_metrics_inspect_2459320.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/2021_Interseason_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459320.html)
 * [auto_metrics_inspect_2459323.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/2021_Interseason_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459323.html)
 * [auto_metrics_inspect_2459325.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/2021_Interseason_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459325.html)
+* [auto_metrics_inspect_2459333.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/2021_Interseason_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459333.html)
 * [auto_metrics_inspect_2459334.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/2021_Interseason_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459334.html)
