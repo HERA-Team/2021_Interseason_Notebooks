@@ -20,3 +20,4 @@
 * [rfi_inspect_2459343.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459343.ipynb)
 * [rfi_inspect_2459349.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459349.ipynb)
 * [rfi_inspect_2459351.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459351.ipynb)
+* [rfi_inspect_2459352.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459352.ipynb)
