@@ -17,3 +17,4 @@
 * [redcal_inspect_known_good_2459352.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459352.ipynb)
 * [redcal_inspect_known_good_2459353.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459353.ipynb)
 * [redcal_inspect_known_good_2459356.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459356.ipynb)
+* [redcal_inspect_known_good_2459485.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/2021_Interseason_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459485.ipynb)
